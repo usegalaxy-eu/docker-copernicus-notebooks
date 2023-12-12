@@ -29,7 +29,7 @@ The only requirement is that those tools needs to run in containers and expose a
 The Galaxy tool defintion for the copernicus Interactive tool can be found [here](https://github.com/usegalaxy-eu/galaxy/blob/release_23.0_europe/tools/interactive/interactivetool_copernicus.xml).
 
 ### Reference
-This Docker image was created with the combine effort of the [EuroScienceGateway and Fair-Ease](https://eosc.eu/news/stronger-together-fair-ease-and-eurosciencegateway-join-forces)
+This Docker image was created with the combine effort of the [EuroScienceGateway and Fair-Ease](https://eosc.eu/news/stronger-together-fair-ease-and-eurosciencegateway-join-forces) projects.
 
 ![EuroScienceGateway](eurosciencegateway.png)
 ![Fair-Ease](fair_ease_colour.png)
