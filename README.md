@@ -3,7 +3,7 @@
 # Docker image for copernicus - constructed for the use as Galaxy IT
 
 [![Docker Repository on Quay](https://quay.io/repository/galaxy/copernicus-jupyterlab/status "Docker Repository on Quay")](https://quay.io/repository/galaxy/copernicus-jupyterlab)
-Docker container for Sea Observations Utility for Reprocessing, Calibration and Evaluation (copernicus).
+Docker container to discover and access Copernicus Data Space Ecosystem.
 
 copernicus is now available on [Galaxy](https://usegalaxy.eu/root?tool_id=interactive_tool_copernicus).
 
