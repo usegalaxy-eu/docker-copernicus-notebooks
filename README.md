@@ -7,7 +7,7 @@ Docker container to discover and access Copernicus Data Space Ecosystem.
 
 copernicus is now available on [Galaxy](https://usegalaxy.eu/root?tool_id=interactive_tool_copernicus).
 
-![copernicus in Galaxy](./copernicus_in_galaxy.png)
+![copernicus in Galaxy](./copernicus.png)
 
 
 ### Run the image
