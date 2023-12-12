@@ -27,3 +27,9 @@ This image is based on top of the fantastic work of Björn Grüning [base jupyte
 Galaxy can run arbitrary Virtual Research Environments (VREs). In Galaxy terms, such VRE's are called "Interactive Tools", as they are using the same subsystem then normal Galaxy tools.
 The only requirement is that those tools needs to run in containers and expose a port(s) to which Galaxy can redirect users. The Docker image for copernicus ecosystem notebooks you can find in this repository.
 The Galaxy tool defintion for the copernicus Interactive tool can be found [here](https://github.com/usegalaxy-eu/galaxy/blob/release_23.0_europe/tools/interactive/interactivetool_copernicus.xml).
+
+### Reference
+This Docker image was created with the combine effort of the [EuroScienceGateway and Fair-Ease](https://eosc.eu/news/stronger-together-fair-ease-and-eurosciencegateway-join-forces)
+
+![EuroScienceGateway](eurosciencegateway.png)
+![Fair-Ease](fair_ease_colour.png)
